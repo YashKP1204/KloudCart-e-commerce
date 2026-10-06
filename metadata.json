@@ -1,0 +1,6 @@
+{
+  "name": "CloudCart - DevOps & SRE E-Commerce Platform",
+  "description": "A microservice-ready e-commerce and order processing workload with React, Node.js Express, MongoDB, Redis queue, background worker, health probes, and metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

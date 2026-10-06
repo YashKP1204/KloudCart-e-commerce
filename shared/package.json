@@ -1,0 +1,14 @@
+{
+  "name": "@cloudcart/shared",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "typescript": "^7.0.2"
+  },
+  "exports": {
+    "./types": "./src/types.ts"
+  }
+}
